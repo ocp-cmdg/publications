@@ -2,4 +2,4 @@
 title: Climate Modeling and Diagnostic Group Publications
 ---
 
-[Old Publication List](http://ocp-cmdg/publications/pages/pubs.html)
+[Old Publication List](http://ocp-cmdg.github.io/publications/pages/pubs.html)
